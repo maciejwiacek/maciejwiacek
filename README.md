@@ -7,7 +7,7 @@
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/maciej-wiacek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://dribbble.com/Maciurek"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a target="_blank" href="https://dribbble.com/maciejwiacek"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 </p>
 
 ## ⚡ Skills:
