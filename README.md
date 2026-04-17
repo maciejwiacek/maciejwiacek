@@ -1,8 +1,8 @@
 ## Hi, I am Maciej! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-- 🎓&nbsp;Graduate of 42 Warsaw
 - 👨🏻‍💻&nbsp;Working with Angular & Spring Boot/WebFlux · Building side projects in React Native & Next.js
 - 👨🏻‍🎨&nbsp;Background in Graphic Design — it shapes how I approach UI/UX
+- 🎓&nbsp;Graduate of 42 Warsaw
 - ✉️&nbsp;Reach me: maciejwiacek4@gmail.com
 
 <p>
